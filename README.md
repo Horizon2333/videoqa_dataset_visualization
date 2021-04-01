@@ -99,6 +99,8 @@ python ui.py
 
 ### MSVD-QA
 
+Dataset size: ```~1.7G```
+
 #### Download links
 
 [MSVD Official link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) ,
@@ -138,6 +140,8 @@ answer = annotation[index]['answer']
 Then we can use video name and video path to load videos with the help of opencv.
 
 ### MSRVTT-QA
+
+Dataset size: ```~6.3G```
 
 #### Download links
 
@@ -180,6 +184,8 @@ answer = annotation[index]['answer']
 Then we can use video name and video path to load videos with the help of opencv.
 
 ### tgif-qa
+
+Dataset size: ```~123G```
 
 #### Download links
 
