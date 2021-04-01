@@ -226,7 +226,7 @@ array(['tumblr_nk172bbdPI1u1lr18o1_250',
        'talk', 'flap wings', '4', 'ACTION4', '26'], dtype='<U73')
 ```
 
-Get video name, question and answer:
+Get gif name, question and answer:
 
 ```
 gif_name = tgif_test_action_annotation[index][0] + '.gif' 
@@ -266,7 +266,7 @@ array(['tumblr_nezfs4uELd1u1a7cmo1_250',
        '52'], dtype='<U97')
 ```
 
-Get video name, question and answer:
+Get gif name, question and answer:
 
 ```
 gif_name = tgif_test_count_annotation[index][0] + '.gif' 
