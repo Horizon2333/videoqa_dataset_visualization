@@ -2,6 +2,9 @@
 
 Load and visualize different datasets in video question answering.
 
+[toc] 
+
+
 ## Project structure
 ```
 $videoqa_dataset_visualization
