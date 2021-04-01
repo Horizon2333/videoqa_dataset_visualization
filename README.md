@@ -2,15 +2,15 @@
 
 Load and visualize different datasets in video question answering.
 
-1. [Project structure](#Project-structure)
-2. [Dataset structure](#Dataset-structure)
-3. [Install](#Install)
-4. [Usage](#Usage)
-5. [Dataset](#Dataset)
-   * [MSVD-QA](#[MSVD-QA)
-   * [MSRVTT-QA](#[MSRVTT-QA)
-   * [tgif-qa](#[tgif-qa)
-6. [Result](#[Result)
+1. [Project structure](#project-structure)
+2. [Dataset structure](#dataset-structure)
+3. [Install](#install)
+4. [Usage](#usage)
+5. [Dataset](#dataset)
+   * [MSVD-QA](#msvd-qa)
+   * [MSRVTT-QA](#msrvtt-qa)
+   * [tgif-qa](#tgif-qa)
+6. [Result](#result)
 
 ## Project structure
 ```
