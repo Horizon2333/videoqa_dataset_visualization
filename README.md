@@ -5,11 +5,11 @@ Load and visualize different datasets in video question answering.
 ## Project structure
 ```
 $videoqa_dataset_visualization
-	|──results              # result image
-		|──msvd.png
-		|──msrvtt.png
-		|──tgif.png
-		|──ui.png
+    |──results              # result image
+	    |──msvd.png
+	    |──msrvtt.png
+	    |──tgif.png
+	    |──ui.png
     |──mainwindow.py        # ui file based on PyQt5
     |──mainwindow.ui        # can be modified with Qt Creator
     |──msvd_visualize.py    # msvd-qa dataset visualization
@@ -267,7 +267,9 @@ Type ```transition``` is like type ```action```.
 
 ## Results
 
+Visualize MSVD-QA:
 
+![MSVD-QA](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/msvd.png)
 
 
 
