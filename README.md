@@ -2,8 +2,8 @@
 
 Load and visualize different datasets in video question answering.
 
-1. [Project structure](#Project structure)
-2. [Dataset structure](#Dataset structure)
+1. [Project structure](#Project-structure)
+2. [Dataset structure](#Dataset-structure)
 3. [Install](#Install)
 4. [Usage](#Usage)
 5. [Dataset](#Dataset)
