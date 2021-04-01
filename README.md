@@ -91,9 +91,9 @@ python ui.py
 
 #### Download links
 
-[MSVD Official link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) 
-[MSVD video link](https://www.multcloud.com/share/050e69cd-cab9-4ba3-a671-ed459341ab41) (have a better name format)
-[MSVD-QA annotation link](https://mega.nz/file/QmxFwBTK#Cs7cByu_Qo42XJOsv0DjiEDMiEm8m69h60caDYnT_PQ) 
+[MSVD Official link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/) ,
+[MSVD video link](https://www.multcloud.com/share/050e69cd-cab9-4ba3-a671-ed459341ab41) (have a better name format),
+[MSVD-QA annotation link](https://mega.nz/file/QmxFwBTK#Cs7cByu_Qo42XJOsv0DjiEDMiEm8m69h60caDYnT_PQ) ,
 
 #### Annotation 
 
@@ -131,7 +131,7 @@ Then we can use video name and video path to load videos with the help of opencv
 
 #### Download links
 
-[MSRVTT video and annotation link](https://www.mediafire.com/folder/h14iarbs62e7p/shared) 
+[MSRVTT video and annotation link](https://www.mediafire.com/folder/h14iarbs62e7p/shared) ,
 [MSRVTT-QA annotation link](https://mega.nz/file/UnRnyb7A#es4XmqsLxl-B7MP0KAat9VibkH7J_qpKj9NcxLh8aHg) 
 
 #### Annotation 
