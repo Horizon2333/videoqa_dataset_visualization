@@ -289,15 +289,15 @@ Visualize MSVD-QA:
 
 Visualize MSRVTT-QA:
 
-![MSVD-QA](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/msrvtt.png)
+![MSRVTT-QA](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/msrvtt.png)
 
 Visualize tgif-qa:
 
-![MSVD-QA](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/tgif.png)
+![tgif-qa](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/tgif.png)
 
 Visualize GUI:
 
-![MSVD-QA](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/ui.png)
+![GUI](https://github.com/Horizon2333/videoqa_dataset_visualization/blob/main/results/ui.png)
 
 ***
 
